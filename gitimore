@@ -1,0 +1,6 @@
+mybot/
+├─ main.py            # Telegram bot code (already created)
+├─ requirements.txt   # Python dependencies
+├─ Procfile           # For GitHub/Heroku auto-run
+├─ runtime.txt        # Python version for GitHub
+└─ README.md          # Setup instructions
